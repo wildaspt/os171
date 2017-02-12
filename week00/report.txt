@@ -1,0 +1,3 @@
+#wildaspt
+
+Lab week0 kita disuruh untuk membuat akun google dan akun github. kemudian kita disuruh untuk mengisi form mengenai akun yang telah kita buat. setelah itu, kita harus menunggu maksimal 24 jam untuk mendapatkan laporan mengenai sukses atau tidaknya akun2 yang telah kita buat. setelah mendapat laporan sukses, kita disuruh login badak dengan ssh
