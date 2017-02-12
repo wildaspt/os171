@@ -19,4 +19,5 @@ drwxr-xr-x  2 wilda.septiani StafCS 4096 Feb 12 20:30 week08
 drwxr-xr-x  2 wilda.septiani StafCS 4096 Feb 12 20:31 week09
 drwxr-xr-x  2 wilda.septiani StafCS 4096 Feb 12 20:31 week10
 drwxr-xr-x  2 wilda.septiani StafCS 4096 Feb 12 20:31 xtra
-/home/fasilkom/mahasiswa/w/wilda.septiani/os171/week01
+/home/fasilkom/mahasiswa/w/wilda.septiani/os171/week01 
+Today is 12 Feb 2017 at 21:25:49
