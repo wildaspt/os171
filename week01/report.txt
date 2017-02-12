@@ -1,0 +1,3 @@
+#wildaspt
+
+task week1 kita diajarkan cara CLI, GIT DAN SCRIPTING. selain itu, kita disuruh mengolah repository dan membuat folder week00-week10, log, xtra, sandbox, key. kemudian kita disuruh menulis ekspektasi kita selama belajar di kelas os, dan report tentang apa saja yang dilakukan
