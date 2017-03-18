@@ -1,0 +1,8 @@
+w05-170314-13-LR-About: virtual memory(memory allocation, segmentation) From: Lecturer
+w05-170314-13-LR-About: virtual memory(memory allocation, segmentation) From: Lecturer
+w05-170314-14-LR-About: virtual memory(memory allocation, segmentation) From: Lecturer
+w05-170316-13-LR-About: virtual memory(paging, page table, fifo algorithm) From: Lecturer
+w05-170316-13-LR-About: virtual memory(paging, page table, fifo algorithm)From: Lecturer
+w05-170316-14-LR-About: virtual memory(paging, page table, fifo algorithm)From: Lecturer
+w05-170318-13-PS-About: Week5 task
+w05-170318-14-PS-About: Week5 Task
