@@ -1,0 +1,12 @@
+w07-170418-13-LR-About: Synchrnization from: Lecturer
+w07-170418-13-LR-About: Synchronization from : lecturer
+w07-170418-14-LR-About: Synchronization From: Lecturer
+w07-170420-13-PS-About: Synchronization exercise  with Lecturer
+w07-170420-13-PS-About: Synchronization exercise With lecturer
+w07-170420-14-PS-About: Synchronization exercise With lecturer
+w07-170422-12-DS-About: Discuss Semaphore
+w07-170422-12-DS-About: Discuss week7 task
+w07-170422-13-PS-About: Week7 Task
+w07-170422-13-PS-About: Week7 Task
+w07-170422-14-PS-About: Week7 Task
+w07-170422-14-PS-About: Week7 task
