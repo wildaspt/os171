@@ -1,0 +1,10 @@
+w08-170425-13-LR-About: CPU times from: Lecturer
+w08-170425-13-LR-About: CPU times exercise  with : lecturer
+w08-170425-14-LR-About: CPU times with : Lecturer
+w08-170427-13-PS-About: Socket from: Lecturer
+w08-170427-13-PS-About: Socket from: lecturer
+w08-170427-14-PS-About: Socket from: lecturer
+w08-170428-21-DS-About: Week8 Task
+w08-170428-21-DS-About: Week8 Task 
+w08-170429-20-PS-About: Week8 Task
+w08-170429-20-PS-About: Week8 Task
